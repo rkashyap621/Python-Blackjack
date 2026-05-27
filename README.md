@@ -4,7 +4,7 @@
 
 If you are new to Blackjack you can learn it [here](https://www.youtube.com/watch?v=TDkbWXJ16hU&pp=ygUVaG93IHRvIHBsYXkgYmxhY2tqYWNr).
 
-# Implemented:
+# Implemented here:
 1. A single player vs. Dealer (Computer) mode Blackjack Game with a single deck.
 2. The  usual HIT and STAND player actions
 3. Win, Bust and Push declaration by Dealer (Computer) in a casual friendly way.
