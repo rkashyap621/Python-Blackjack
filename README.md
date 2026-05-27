@@ -7,7 +7,7 @@ If you are new to Blackjack you can learn it [here](https://www.youtube.com/watc
 # Implemented:
 1. A single player vs. Dealer (Computer) mode Blackjack Game with a single deck.
 2. The  usual HIT and STAND player actions
-3. Win, Bust and Push declaration by Dealer in a casual friendly way.
+3. Win, Bust and Push declaration by Dealer (Computer) in a casual friendly way.
 
 # Improvements whoch can be implemented:
 1. Inclusion of DOUBLE DOWN and SPLIT Player Actions.
